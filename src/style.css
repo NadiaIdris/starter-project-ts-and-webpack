@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "JetBrains Mono Regular";
+    src: url('assets/fonts/JetBrainsMono-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    background: url(assets/images/sea-turtle-small.png);
+    font-family: "JetBrains Mono Regular";
+}
